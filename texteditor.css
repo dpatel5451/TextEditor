@@ -1,0 +1,24 @@
+body {
+    background-color:#3d85c6;
+}
+
+#textContentArea {
+    width: 50vw;
+    height: 50vh;
+    display: block;
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header 
+{
+	padding: 15px;
+	text-align: center;
+	color: black;
+	font-size: 26px;
+	background: #ffffff;
+}
+

@@ -1,0 +1,88 @@
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.dll.config
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.pdb
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csc.exe
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csc.exe.config
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csc.rsp
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csi.exe
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csi.exe.config
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\csi.rsp
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Buffers.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Memory.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\vbc.exe
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\vbc.exe.config
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\vbc.rsp
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.xml
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.AssemblyReference.cache
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.CopyComplete
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.dll
+C:\Users\Dhruvanshi\OneDrive\Desktop\final final\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.pdb
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\ASPNET-Example.dll.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\ASPNET-Example.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\ASPNET-Example.pdb
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csc.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csc.exe.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csc.rsp
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csi.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csi.exe.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\csi.rsp
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Buffers.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Memory.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\vbc.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\vbc.exe.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\vbc.rsp
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Newtonsoft.Json.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Newtonsoft.Json.xml
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.AssemblyReference.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\obj\Debug\A07-TextEditor.csproj.CopyComplete
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\obj\Debug\ASPNET-Example.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\obj\Debug\ASPNET-Example.pdb
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Web Design and Development\A-07\Ghiya-D-Patel-D\ASPNET-Example\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
